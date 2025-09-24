@@ -55,7 +55,7 @@ asesinato en un palacio.
 
 ------------------------------------------------------------------------
 
-## 3) 💻​Clases en C
+## 3) 💻​Clases en C#
 
 ### Clase Detective
 
