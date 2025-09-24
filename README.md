@@ -21,8 +21,7 @@ asesinato en un palacio.
 -   Cada interacción añade una pista a la **libreta del detective**.\
 -   El jugador puede revisar su libreta en cualquier momento con el
     comando `libreta`.\
--   El objetivo final es **descubrir quién es el culpable** usando el comando:
-    -   `acusar <nombre>`\
+-   El objetivo final es **descubrir quién es el culpable** usando el comando `acusar <nombre>`\
 
 ------------------------------------------------------------------------
 
