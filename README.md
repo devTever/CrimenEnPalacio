@@ -1,10 +1,10 @@
-# 😎​ Aventura Conversacional
+<img src="CrimenEnPalacio/img/crimen-en-palacio-ornitogames.png">
 
-## 🗡️ Crimen en Palacio 🗡️
-
+# ​🗡️​​Crimen en Palacio💉 - Aventura Conversacional
+## Modo Consola .NET para C#
 ------------------------------------------------------------------------
 
-## 1) Explicación del juego y su dinámica
+## 1) 🕹️​Explicación del juego y su dinámica
 
 **Crimen en Palacio** es un juego conversacional inspirado en el clásico
 Cluedo.\
@@ -25,7 +25,7 @@ asesinato en un palacio.
 
 ------------------------------------------------------------------------
 
-## 2) Diseño lógico del juego
+## 2) 🧐​Diseño lógico del juego
 
 ### Mapa
 
@@ -34,7 +34,7 @@ asesinato en un palacio.
 -   Cada sala tiene una lista de salidas (`List<string>`) que indican
     las direcciones posibles.
 
-### Elementos principales
+### ​Elementos principales
 
 -   **Sala** → contiene nombre, descripción, objeto, personaje y
     salidas.\
@@ -55,7 +55,7 @@ asesinato en un palacio.
 
 ------------------------------------------------------------------------
 
-## 3) Clases en C
+## 3) 💻​Clases en C
 
 ### Clase Detective
 
@@ -443,7 +443,7 @@ namespace CrimenEnPalacio
 
 ------------------------------------------------------------------------
 
-## 4) Ejemplo de Juego
+## 4) 🎲​Ejemplo de Juego
 
     Bienvenido a 'Crimen en Palacio'
 
@@ -479,7 +479,7 @@ namespace CrimenEnPalacio
 
 ------------------------------------------------------------------------
 
-## 5) Posibles mejoras futuras
+## 5) 💡​Posibles mejoras futuras
 
 -   **Cargar mapa desde archivo JSON**\
     El mapa podría definirse en un archivo JSON para hacerlo dinámico.
@@ -489,3 +489,6 @@ namespace CrimenEnPalacio
     archivo JSON, facilitando la creación de nuevas historias.
 
 ------------------------------------------------------------------------
+
+[![Made with ❤️ by Tever](https://img.shields.io/badge/Made%20with%20❤️-by%20Tever-181717?logo=github)](https://github.com/devTever)
+
